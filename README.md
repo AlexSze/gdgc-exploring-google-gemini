@@ -1,6 +1,6 @@
-# Google Developer Group Cloud Hong Kong Generative Workshop
+# Generative AI 101: Google Gemini
 
-## Introduction to Google Gemini: Unleashing the Power of Generative AI
+## By Google Developer Group Cloud Hong Kong
 
 Welcome to the Google Developer Group Cloud Hong Kong Generative Workshop! In this workshop, we will explore the exciting world of Google Gemini and learn how to harness the power of generative AI. Gemini is a cutting-edge technology developed by Google that enables the creation of innovative and creative content using machine learning algorithms.
 
