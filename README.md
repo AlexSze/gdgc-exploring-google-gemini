@@ -1,4 +1,4 @@
-# #BuildWithAI: Generative AI 101: Google Gemini 生成式人工智能101: Google Gemini
+# Build with AI 2024: Google Gemini 生成式人工智能101: Google Gemini
 
 ## By Google Developer Group Cloud Hong Kong
 
